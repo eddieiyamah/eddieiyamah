@@ -1,5 +1,5 @@
 - 👋🏽 Hi, I’m @eddieiyamah
--  I’m interested in Machine learning, deep learning, computer vision and their applications in several spheres of study. 
+-  I’m interested in Machine learning, deep learning, computer vision and their applications in several spheres of research. 
 - 🌱 I’m currently learning various optimisation algorithms and how they can be used to boost the efficiency of models
 - 📫 You can reach via e-mail at theeddieiyamah@gmail.com
 
