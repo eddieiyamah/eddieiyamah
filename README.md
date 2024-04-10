@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 :school: Currently studying Data Science and Artificial Intelligence at Bournemouth University, UK</br>
 :computer: AI is cool, I guess</br>
-:video_game: I'm an avid gamer</br>
+:video_game: gamer</br>
 🔗 research website: [research.eddieiyamah.co](https://research.eddieiyamah.co)</br>
 :mailbox: How to reach me: <a href="mailto:eddieoiyamah@gmail.com">eddieoiyamah@gmail.com</a>
 
