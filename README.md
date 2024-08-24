@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 [![Website](https://img.shields.io/badge/research.eddieiyamah.co-grey?style=for-the-badge&url=https%3A%2F%2Fkevinfeng.ga)](https://research.eddieiyamah.co/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/eddieiyamah/)](https://www.linkedin.com/in/eddieiyamah/)
 
-:school: Currently studying Data Science and Artificial Intelligence at Bournemouth University, UK</br>
+:school: Computer Science PhD Researcher at Bournemouth University, UK</br>
 :computer: AI is cool, I guess</br>
 :video_game: gamer</br>
 🔗 research website: [research.eddieiyamah.co](https://research.eddieiyamah.co)</br>
@@ -21,7 +21,6 @@ You can click the Preview link to take a look at your changes.
 <div>
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;&nbsp;&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png">&nbsp;
