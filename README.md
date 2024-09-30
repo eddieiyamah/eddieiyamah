@@ -11,9 +11,7 @@ You can click the Preview link to take a look at your changes.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/eddieiyamah/)](https://www.linkedin.com/in/eddieiyamah/)
 
 :school: Computer Science PhD Researcher at Bournemouth University, UK</br>
-:computer: AI is cool, I guess</br>
-:video_game: gamer</br>
-🔗 research website: [research.eddieiyamah.co](https://research.eddieiyamah.co)</br>
+🔗 personal website: [research.eddieiyamah.co](https://research.eddieiyamah.co)</br>
 :mailbox: How to reach me: <a href="mailto:eddieoiyamah@gmail.com">eddieoiyamah@gmail.com</a>
 
 
