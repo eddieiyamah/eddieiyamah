@@ -23,8 +23,6 @@ You can click the Preview link to take a look at your changes.
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1144px-Matlab_Logo.png">&nbsp;  
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/7/71/Finder_icon_macOS_Yosemite.png">&nbsp;
 
 </div>
 
